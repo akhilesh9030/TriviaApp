@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HW4</string>
+    <string name="stats_string">Trivia Stats</string>
+    <string name="correct_string">Correct Answers</string>
+    <string name="try_again_string">Try again and see if you can get all the correct answers!</string>
+    <string name="try_button">Try Again</string>
+    <string name="quit_string">Quit</string>
+    <string name="next_string">Next</string>
+    <string name="trivia_string">Loading Trivia</string>
+</resources>
